@@ -1,0 +1,3 @@
+rxv
+pySerial
+simpleaudio
